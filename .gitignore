@@ -1,6 +1,13 @@
 out
 key
 .streamlit
+scrap/.ipynb_checkpoints
+scrap/csv
+scrap/agoda_hotel_list.ipynb
+scrap/agoda_v1.ipynb
+scrap/agoda_v2.ipynb
+scrap/note.pptx
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
