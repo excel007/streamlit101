@@ -6,3 +6,5 @@ you can run from command : streamlit run <_filename_>
 - taxi_randomforest.py :
 I follow by this video : https://www.youtube.com/watch?v=-IM3531b1XU
 a dataset was trimmed from https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
+- /scrap/wiki_reference.ipynb : web scraping 101 from wiki page
+- /scrap/shopee.ipynb : web scraping from shopee website
